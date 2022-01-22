@@ -1,5 +1,7 @@
 ### Здарова 👋
+⚡ Fun fact: React-разработчик 
 
+🔭 I’m currently working on работа
 <!--
 **Dragonite24/Dragonite24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
