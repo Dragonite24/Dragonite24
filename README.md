@@ -2,6 +2,8 @@
 ⚡ Fun fact: React-разработчик 
 
 🔭 I’m currently working on работа
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%FFFF00FF&lines=Lmao+bottom+text)](https://git.io/typing-svg)
 <!--
 **Dragonite24/Dragonite24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
