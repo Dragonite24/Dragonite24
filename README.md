@@ -1,5 +1,5 @@
 ### Здарова 👋
-⚡ Fun fact: React-разработчик 
+⚡ Fun fact: Web разработчик
 
 🔭 I’m currently working on работа
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonite24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonite24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
