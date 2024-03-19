@@ -3,6 +3,8 @@
 
 🔭 I’m currently working on работа
 
+📫 How to reach me: [Telegram](https://t.me/dragonite24)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%FFFF00FF&lines=Lmao+bottom+text)](https://git.io/typing-svg)
 <!--
 **Dragonite24/Dragonite24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
